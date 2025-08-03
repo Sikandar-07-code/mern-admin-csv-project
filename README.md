@@ -85,21 +85,7 @@ Password: admin123
 
 ---
 
-## 📽️ Demo Video
 
-> 🎥 Upload your 3-minute walkthrough to YouTube and paste the link here.
-
----
-
-## 🖼️ Optional Screenshots
-
-You can add a `screenshots/` folder and include:
-
-| Login Page | Dashboard |
-|------------|-----------|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
-
----
 
 ## 📄 License
 
